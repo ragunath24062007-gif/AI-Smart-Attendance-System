@@ -1,0 +1,7 @@
+{
+  "name": "AI Smart Attendance System",
+  "description": "AI-powered biometric attendance system with facial recognition verification, live check-in telemetry, and secure administrator authorization.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
